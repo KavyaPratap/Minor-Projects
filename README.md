@@ -82,5 +82,8 @@
   <h3>Note</h3>
   <p>Ensure all dependencies are installed using <code>pip</code> before running the scripts:</p>
   <pre><code>pip install tkinter pytube moviepy FPDF pyqrcode pillow mysql-connector-python</code></pre>
+
+   <h2>License</h2>
+    <p>This project is licensed under the MIT License. See the <a href="https://opensource.org/licenses/MIT">LICENSE</a> file for details.</p>
 </body>
 </html>
